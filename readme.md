@@ -5,7 +5,7 @@ CJ Brown, Andrew Broadley 12 Dec 2017
 Provided in support of the submitted paper:
 Brown, Broadley, Adame, Branch, Turschwell, Connolly. 2017. "The status of fisheries depends on changes in fish habitats". Submitted
 
-Please cite that paper if you use this resource. We would also like to hear how you are using this. 
+Please cite that paper if you use this resource. We would also like to hear how you are using this (to prevent duplicated effort and improve the database into the future): chris.brown@griffith.edu.au 
 
 License: [MIT](https://opensource.org/licenses/MIT) + file LICENSE
 

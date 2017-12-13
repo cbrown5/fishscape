@@ -32,7 +32,7 @@ See the [Github repo](https://github.com/cbrown5/fishscape) to access all files.
 
 [The fishscape database as a csv](/data-raw/fish-hab-db_v1.csv)
 
-[Metadata](/meta-data.html)
+[Metadata](meta-data.html)
 
 [A complete bibliography of reviewed papers as a bibtex file](/fish-hab-db-refs.bib)
 

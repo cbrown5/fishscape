@@ -21,9 +21,14 @@ It is a long-form database, where each row corresponds to one observation of a f
 Currently we have focussed on species included in the [RAM Legacy database](http://ramlegacy.org/). We plan to expand the database to all species in the FAO catch series in 2018.
 
 ## Files
-See the [Github repo](https://github.com/cbrown5/fishscape) to access these files. 
-The database itself is under: `data-raw/fish-hab-db_v1.csv`
-Metadata are in `meta-data.md`
-A complete bibliography of reviewed papers is under `fish-hab-db-refs.bib`
-R code used to generate figures in the submitted paper is in `GlobalFishStatus/`
-`data-raw/priority-fish-stocks.csv` contains a list of RAM Legacy stocks that we cross referenced with our database.
+See the [Github repo](https://github.com/cbrown5/fishscape) to access all files.
+
+[The fishscape database as a csv](/data-raw/fish-hab-db_v1.csv)
+
+[Metadata](/meta-data.html)
+
+[A complete bibliography of reviewed papers as a bibtex file](/fish-hab-db-refs.bib)
+
+[R code used to generate figures in the submitted paper](https://github.com/cbrown5/fishscape/tree/master/GlobalFishStatus)
+
+[A csv of RAM Legacy stocks that we cross referenced with our database](/data-raw/priority-fish-stocks.csv)

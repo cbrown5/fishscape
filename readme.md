@@ -1,11 +1,14 @@
 # readme for the fishscape database
 
-CJ Brown, Andrew Broadley 12 Dec 2017
+CJ Brown, Andrew Broadley 14 Dec 2017
 
 Provided in support of the submitted paper:
-Brown, Broadley, Adame, Branch, Turschwell, Connolly. 2017. "The status of fisheries depends on changes in fish habitats". Submitted
 
-Please cite that paper if you use this resource. We would also like to hear how you are using this (to prevent duplicated effort and improve the database into the future): chris.brown@griffith.edu.au 
+[The assessment of fishery status depends on the condition of fish habitats](https://www.biorxiv.org/content/early/2017/12/13/233478)
+Christopher J Brown, Andrew Broadley, Fernanda Adame, Trevor A Branch, Mischa Turschwell, Rod M Connolly
+bioRxiv 233478; doi: https://doi.org/10.1101/233478
+
+Please cite that paper if you use this resource. We would also like to hear how you are using this (to prevent duplicated effort and improve the database into the future): chris.brown@griffith.edu.au
 
 License: [MIT](https://opensource.org/licenses/MIT) + file LICENSE
 

@@ -14,7 +14,7 @@ Please cite that paper if you use this resource. We would also like to hear how 
 
 License: [MIT](https://opensource.org/licenses/MIT) + file [LICENSE](/LICENSE)
 
-![](/results/global-map.png)
+![](results/global-map.png)
 
 *Image: Location of stocks included in the fishscape database and FAO regions.*
 

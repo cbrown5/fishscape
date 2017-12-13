@@ -12,11 +12,11 @@ bioRxiv 233478; doi: https://doi.org/10.1101/233478
 
 Please cite that paper if you use this resource. We would also like to hear how you are using this (to prevent duplicated effort and improve the database into the future): chris.brown@griffith.edu.au
 
-License: [MIT](https://opensource.org/licenses/MIT) + file LICENSE
+License: [MIT](https://opensource.org/licenses/MIT) + file [LICENSE](/LICENSE)
 
 ![](/results/global-map.png)
 
-*Image: Location of stocks included in the fishscape database and FAO regions.*  
+*Image: Location of stocks included in the fishscape database and FAO regions.*
 
 ## Description
 

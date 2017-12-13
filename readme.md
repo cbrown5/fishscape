@@ -1,4 +1,4 @@
-# readme for the fishscape database
+# The fishscape database
 
 CJ Brown, Andrew Broadley 14 Dec 2017
 
@@ -21,6 +21,7 @@ It is a long-form database, where each row corresponds to one observation of a f
 Currently we have focussed on species included in the [RAM Legacy database](http://ramlegacy.org/). We plan to expand the database to all species in the FAO catch series in 2018.
 
 ## Files
+See the [Github repo](https://github.com/cbrown5/fishscape) to access these files. 
 The database itself is under: `data-raw/fish-hab-db_v1.csv`
 Metadata are in `meta-data.md`
 A complete bibliography of reviewed papers is under `fish-hab-db-refs.bib`

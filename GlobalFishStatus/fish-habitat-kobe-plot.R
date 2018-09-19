@@ -81,9 +81,10 @@ ymax <- 2
 
  # dev.new(width = 8, height = 15)
 ppi <- 300
-  png(filename = "~/Code/fishscape/GlobalFishStatus/results/kobe-plot.png", res = ppi,
-      width = 6*ppi, height = 12*ppi)
-
+  #png(filename = "~/Code/fishscape/GlobalFishStatus/results/kobe-plot.png", res = ppi,
+   #   width = 6*ppi, height = 12*ppi)
+pdf("results/kobe-plot.pdf",
+       width = 6, height = 12)
 par(mfrow = c(4,2), mar = c(4,5,2,1))
 
 plot(nbase_bmsy$y/Bmsy, nbase_bmsy$Fmort/Fmsy, cex = 1, xlab = expression(B/B[MSY]), ylab = expression(F/F[MSY]),col = mycols(tmax), pch = 16, xlim = c(0, 2), ylim = c(0, ymax), xaxs = "i", yaxs = "i")

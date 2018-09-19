@@ -95,8 +95,9 @@ post-larvae refers to settlement habitats.
 ### habitat-type
 Type of habitat. Seperate multiple entries with ;
 **Fields:**
-[seagrass, mangroves, coral, reef, soft-sediment, sand, mud, macroalgae, rock ...]
+[seagrass, mangroves, coral, reef, soft-sediment, sand, mud, macroalgae, rock, ...]
 soft-sediment is a generalisation of sand and mud mixed (if unknown)
+Seperate multiple fields with a semi-colon (;). e.g. to record a species associated with a rocky reef you would enter.
 
 ### habitat-species
 Lowest taxonomic ID of habitat if available (genus, species etc...)
@@ -110,17 +111,17 @@ pred-refuge refers to refuge from predation
 Where shelter refers to sheltering functions other than avoiding predation.
 physiochem refers to physiochemical properties (e.g. desired temperature)
 
-
 ### micro-habitat
 if known, type of micro-habitat used by a species.
 
 ### obstype
 How did the researchers identify this habitat association?
 **Fields:**
-[direct, catch-survey, catch, e-tag, stomach, isotopes, ...]
+[direct, catch-survey, catch, e-tag, stomach, isotopes, experimental ...]
 direct refers to direct observation ie you saw it there while diving.
 catch-survey refers to catching a fish in a habitat using scientific surveys
 catch refers to catch in commercial/recreational fisheries.
+experimental refers to preference studies in the lab.
 
 e-tag is an electronic tag.
 Stomach means habitat was inferred from dietry analysis. Similar for isotopes.
@@ -140,7 +141,7 @@ If known, approx. area that was surveyed
 Flag to indicate that the study reported that a change in the habitat had an impact on a fishery.
 **Fields:**
 [y, n]
-(leave blank if N)
+(leave blank if unknown)
 
 ### fish-stock
 If known, indicates if there is a change fish stock because of a change in habitat.

@@ -6,9 +6,11 @@ By CJ Brown, Andrew Broadley
 
 Provided in support of the submitted paper (currently available as a pre-print):
 
-[The assessment of fishery status depends on the condition of fish habitats](https://www.biorxiv.org/content/early/2017/12/13/233478)
+[The assessment of fishery status depends on fish habitats](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12318)
 Christopher J Brown, Andrew Broadley, Fernanda Adame, Trevor A Branch, Mischa Turschwell, Rod M Connolly.
-bioRxiv 233478; doi: https://doi.org/10.1101/233478
+Fish and Fisheries https://doi.org/10.1111/faf.12318
+
+If you can't access the paper, [email me](mailto:chris.brown@griffith.edu.au) or [click here an open-access pre-print (which is near identical to the published version)](https://www.biorxiv.org/content/early/2017/12/13/233478). 
 
 Please cite that paper if you use this resource. We would also like to hear how you are using this (to prevent duplicated effort and improve the database into the future): chris.brown@griffith.edu.au
 
@@ -17,6 +19,8 @@ License: [MIT](https://opensource.org/licenses/MIT) + file [LICENSE](/LICENSE)
 ![](results/global-map.png)
 
 *Image: Location of stocks included in the fishscape database and FAO regions.*
+
+We are grateful for funding from the Australian Research Council which has helped support this work.
 
 ## Description
 

@@ -2,7 +2,7 @@
 # CJ Brown 21 July 2017
 
 rm(list = ls())
-setwd("~/Code/fishscape/GlobalFishStatus")
+ setwd("C:/Documents/Code/fishscape")
 
 library(rgdal)
 library(RColorBrewer)
@@ -44,22 +44,26 @@ spdat3 <- subset(spdat2, HabitatType %in% habtypes)
 # Plot
 # ---------------
 zrange <- c(-1, 101)
-colfun <- colorNumeric("Purples", domain = zrange)
+Purples <- RColorBrewer::brewer.pal(9,"Purples")
+colfun <- colorBin(Purples, domain = zrange, bins = 5)
 mycols <- colfun(fao_major@data$perc_risk)
 width <- 8
 ppi <- 300
 asp <- 2
 
-png('results/global-map.png',
-        width = width * ppi*asp, height = width*ppi, res = ppi, antialias = 'none')
+#png('results/global-map.png',
+ #       width = width * ppi*asp, height = width*ppi, res = ppi, antialias = 'none')
+
+pdf('results/global-map.pdf',
+    width = width *asp, height = width)
 
 par(mar = c(1,1,1,6))
 plot(faoplot, col = mycols, lwd = 0.1, bg = "white")
 #plot(spdat3, add = T, col = "white", bg = "black", cex = 0.6, pch = 21)
-plot(spdat3, add = T, col = "black", cex = 0.8, pch = 1)
+plot(spdat3, add = T, col = "black", cex = 1.1, pch = 21, bg = PlotTools::hexalpha("white", 0.5))
 
-colbreaks <- seq(0,100, by = 10)
-mycols <- colfun(seq(2.5, 97.5, by = 10))
+colbreaks <- seq(0,100, by = 20)
+mycols <- colfun(seq(2.5, 97.5, by = 20))
 fields::image.plot(legend.only = TRUE, zlim = zrange,
     breaks = colbreaks,
     col = mycols, legend.width = 2, smallplot = c(0.9, 0.95, 0.5, 0.82),

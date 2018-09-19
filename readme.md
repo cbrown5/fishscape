@@ -2,7 +2,7 @@
 
 By CJ Brown, Andrew Broadley
 
-14 Dec 2017
+19 Sept 2018
 
 Provided in support of the submitted paper (currently available as a pre-print):
 
@@ -10,7 +10,7 @@ Provided in support of the submitted paper (currently available as a pre-print):
 Christopher J Brown, Andrew Broadley, Fernanda Adame, Trevor A Branch, Mischa Turschwell, Rod M Connolly.
 Fish and Fisheries https://doi.org/10.1111/faf.12318
 
-If you can't access the paper, [email me](mailto:chris.brown@griffith.edu.au) or [click here an open-access pre-print (which is near identical to the published version)](https://www.biorxiv.org/content/early/2017/12/13/233478). 
+If you can't access the paper, [email me](mailto:chris.brown@griffith.edu.au) or [click here an open-access pre-print (which is near identical to the published version)](https://www.biorxiv.org/content/early/2017/12/13/233478).
 
 Please cite that paper if you use this resource. We would also like to hear how you are using this (to prevent duplicated effort and improve the database into the future): chris.brown@griffith.edu.au
 

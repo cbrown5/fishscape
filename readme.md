@@ -12,6 +12,9 @@ Fish and Fisheries https://doi.org/10.1111/faf.12318
 
 If you can't access the paper, [email me](mailto:chris.brown@griffith.edu.au) or [click here an open-access pre-print (which is near identical to the published version)](https://www.biorxiv.org/content/early/2017/12/13/233478).
 
+To cite the database use: Brown and Broadley 2017 Fishscape https://doi.org/10.25904/1912/4017
+Or cite the paper above.
+
 Please cite that paper if you use this resource. We would also like to hear how you are using this (to prevent duplicated effort and improve the database into the future): chris.brown@griffith.edu.au
 
 License: [MIT](https://opensource.org/licenses/MIT) + file [LICENSE](/LICENSE)

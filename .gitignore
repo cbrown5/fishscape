@@ -1,3 +1,5 @@
 .Rapp.history
 old-code/
 FAO_AREAS/
+.DS_Store
+.Rhistory
